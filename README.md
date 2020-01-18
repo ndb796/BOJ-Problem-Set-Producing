@@ -1,6 +1,6 @@
 ## BOJ 문제를 출제하는 방법
 
-### [BOJ 문제 출제 방법](https://www.acmicpc.net/help/problem-add/)
+### [BOJ 문제 출제 방법](https://www.acmicpc.net/help/problem-add?fbclid=IwAR31dWL7up63YZy7IzFM9QHy7gztK8m_N22HDxcWZTPRoe-mr-CDXMwcvsc)
 
 * 아래의 조건 중 최소 하나를 만족하면 [BOJ Stack](https://stack.acmicpc.net/)을 통해 문제를 출제할 수 있습니다.
   * BOJ 2000문제 이상 해결
