@@ -25,8 +25,8 @@
 
 * 본 문제들은 FastCampus의 알고리즘 강의 목적으로 만들어진 문제입니다.
 * 총 5개의 코딩 테스트 문제집(A형-E형)으로 구성되어 있으며, 각 문제집당 제한 시간은 3시간입니다.
-  * 코딩 테스트 A형
-  * 코딩 테스트 B형
-  * 코딩 테스트 C형
-  * 코딩 테스트 D형
-  * 코딩 테스트 E형
+  * [코딩 테스트 A형](./mock_exams/coding_test_A.pdf)
+  * [코딩 테스트 B형](./mock_exams/coding_test_B.pdf)
+  * [코딩 테스트 C형](./mock_exams/coding_test_C.pdf)
+  * [코딩 테스트 D형](./mock_exams/coding_test_D.pdf)
+  * [코딩 테스트 E형](./mock_exams/coding_test_E.pdf)
