@@ -92,6 +92,7 @@
 ### FastCampus 강의용 문제집
 
 * 본 문제들은 FastCampus의 알고리즘 강의 목적으로 만들어진 문제들입니다.
+* BOJ에 업로드를 진행할 예정이므로, 누구나 
 * 총 5개의 코딩 테스트 문제집(A형-E형)으로 구성되어 있으며, 각 문제집당 제한 시간은 3시간입니다.
   * [코딩 테스트 A형](./mock_exams/coding_test_A.pdf)
   * [코딩 테스트 B형](./mock_exams/coding_test_B.pdf)
