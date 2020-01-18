@@ -15,7 +15,7 @@
 
 1) [BOJ Slack](https://acmicpc.slack.com/)에서 @baekjoon에게 DM으로 [BOJ Stack](https://stack.acmicpc.net/)의 출제 권한을 받습니다.
 2) [BOJ Stack](https://stack.acmicpc.net/)에서 문제를 출제합니다.
-3) 검수자를 섭외하고 문제 검수를 받습니다.
+3) 검수자를 섭외하고 문제 검수를 받습니다. 검수자는 ['외부 검수자'](https://www.acmicpc.net/help/contest) 조건을 만족해야 합니다.
 4) [BOJ Slack](https://acmicpc.slack.com/)에서 @baekjoon에게 DM으로 문제 출제 완료를 알리고, 문제 번호를 알립니다.
 5) 시간이 지난 후 [BOJ](https://www.acmicpc.net/)에 문제가 공개됩니다.
 
