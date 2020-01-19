@@ -3,7 +3,7 @@ file_name = 'data_15'
 input_file = open(file_name + '.in')
 input = input_file.readline
 
-# 1,000 x 1,000보다 10배 큰 수로, 최적의 해 보장
+# 100 x 100 x 100보다 큰 수로, 최적의 해 보장
 MAX_VALUE = 10000000
 x, y, p1, p2 = map(int, input().split())
  
