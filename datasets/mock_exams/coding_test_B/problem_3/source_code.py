@@ -26,7 +26,7 @@ dy = [0, 1, 0, -1]
  
 while q:
     virus, s, x, y = q.popleft()
-    # 정확히 s초가 지났을 때 처리 종료
+    # 정확히 s초가 지나거나, 큐가 빌 때까지 반복
     if s == target_s:
         break
     # 4가지 위치를 각각 확인
