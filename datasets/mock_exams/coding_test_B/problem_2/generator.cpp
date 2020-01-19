@@ -6,8 +6,6 @@
 
 using namespace std;
 
-int sum = 0;
-
 int main(void) {
 	srand(time(NULL));
 	ofstream outFile("data_15.in");
