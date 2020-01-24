@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-file_name = 'data_15'
+file_name = 'data_25'
 input_file = open(file_name + '.in')
 input = input_file.readline
 
