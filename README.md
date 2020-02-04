@@ -99,3 +99,11 @@
   * [코딩 테스트 C형](./mock_exams/coding_test_C.pdf)
   * [코딩 테스트 D형](./mock_exams/coding_test_D.pdf)
   * [코딩 테스트 E형](./mock_exams/coding_test_E.pdf)
+
+### 내가 자주하는 실수
+
+* 변수를 표현할 때는 이탤릭체를 이용
+* 일반적인 수를 표현할 때는 그냥 그대로 작성
+* &lt;code&gt; 태그는 특정한 문자열을 지칭할 때만 사용
+* 순차적으로 나열할 때는 Ordered List 사용
+* BOJ에서는 1 ≤ <em>N</em> ≤ 100와 같이 띄어쓰기를 사용
