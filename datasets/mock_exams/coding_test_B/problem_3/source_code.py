@@ -1,22 +1,27 @@
 # -*- coding:utf-8 -*-
-file_name = 'data_15'
+file_name = 'data_16'
 input_file = open(file_name + '.in')
 input = input_file.readline
 
 from collections import deque
 n, k = map(int, input().split())
+
 # N x N 크기의 보드 전체를 0으로 초기화
 board = []
- 
-q = deque()
+data = [] 
+
 for i in range(n):
     # 보드 정보를 한 줄 단위로 입력
     board.append(list(map(int, input().split())))
     for j in range(n):
         # 해당 위치에 바이러스가 존재하는 경우
         if board[i][j] != 0:
-            # 큐에 (바이러스 종류, 시간, 위치 X, 위치 Y) 삽입
-            q.append((board[i][j], 0, i, j))
+            # (바이러스 종류, 시간, 위치 X, 위치 Y) 삽입
+            data.append((board[i][j], 0, i, j))
+
+# 정렬 이후에 큐로 옮기기
+data.sort()
+q = deque(data)
  
 target_s, target_x, target_y = map(int, input().split())
  
